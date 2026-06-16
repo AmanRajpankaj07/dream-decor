@@ -72,7 +72,7 @@ export default function Services() {
       "Elegant and romantic setups for your special day. Custom designs to match your theme and style.",
     color: "from-purple-400 to-purple-500",
     bgColor: "bg-linear-to-br from-purple-50 to-purple-100",
-    imageURL: "...",
+    imageURL: "https://images.unsplash.com/photo-1587271636175-90d58cdad458?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     link: "/wedding",
   },
   {
