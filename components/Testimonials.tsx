@@ -182,7 +182,7 @@ export default function Testimonials() {
                 value={formData.text}
                 onChange={e => setFormData({...formData, text: e.target.value})}
                 className="w-full p-3 border border-gray-200 rounded-xl bg-white/70 focus:outline-purple-500 resize-none" 
-                placeholder="How was your experience with DreamDecor?"
+                placeholder="How was your experience with.  The  DreamDecor?"
               />
             </div>
 

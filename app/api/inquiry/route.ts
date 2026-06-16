@@ -21,7 +21,7 @@ export async function POST(request: Request) {
 
     // 2. Email send logic
     const emailResponse = await resend.emails.send({
-      from: 'DreamDecor Form <onboarding@resend.dev>',
+      from: 'The DreamDecor Form <onboarding@resend.dev>',
       to: 'nitingupta47507@gmail.com', // Aapki email ID jahan message aana hai
       subject: `New Inquiry: ${name} - ${eventType}`,
       html: `

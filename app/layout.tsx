@@ -13,10 +13,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "DreamDecor - Event & Party Decoration Services",
+  title: "The DreamDecor - Event & Party Decoration Services",
   description: "Transform your events into magical experiences. Expert party and event decoration services for weddings, birthdays, corporate events, and more.",
   keywords: ["event decoration", "party decor", "wedding decoration", "event planner"],
-  authors: [{ name: "DreamDecor" }],
+  authors: [{ name: " The DreamDecor" }],
 };
 
 export default function RootLayout({

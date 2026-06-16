@@ -81,7 +81,7 @@ export default function Services() {
       "Fun and vibrant decorations for all ages. From intimate gatherings to grand celebrations.",
     color: "from-pink-400 to-red-500",
     bgColor: "bg-linear-to-br from-pink-50 to-red-100",
-    imageURL: "...",
+    imageURL: "https://plus.unsplash.com/premium_photo-1663839412026-51a44cfadfb8?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     link: "/birthday",
   },
   {
@@ -90,7 +90,7 @@ export default function Services() {
       "Professional and sophisticated decor for conferences, galas, and business celebrations.",
     color: "from-blue-500 to-indigo-600",
     bgColor: "bg-linear-to-br from-blue-50 to-indigo-100",
-    imageURL: "...",
+    imageURL: "https://plus.unsplash.com/premium_photo-1723867267202-169dfe3b197a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29ycG9yYXRlJTIwZXZlbnR8ZW58MHx8MHx8fDA%3D",
     link: "/corporateParty",
   },
   {
@@ -99,7 +99,7 @@ export default function Services() {
       "Cute and charming setups to celebrate new arrivals with warmth and joy.",
     color: "from-yellow-400 to-pink-400",
     bgColor: "bg-linear-to-br from-yellow-50 to-pink-100",
-    imageURL: "...",
+    imageURL: "https://images.unsplash.com/photo-1625990462521-a09e6b880d50?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8QmFieSUyMFNob3dlcnN8ZW58MHx8MHx8fDA%3D",
     link: "/babyShower",
   },
   {
@@ -108,7 +108,7 @@ export default function Services() {
       "Festive decorations for Christmas, New Year, and seasonal celebrations.",
     color: "from-green-500 to-emerald-600",
     bgColor: "bg-linear-to-br from-green-50 to-emerald-100",
-    imageURL: "...",
+    imageURL: "https://media.istockphoto.com/id/533327527/photo/indian-women-throwing-colored-holi-powder.webp?a=1&b=1&s=612x612&w=0&k=20&c=ME4qLb3biDm7PXLqdAQpz2yXhkHDaJGwHLuZUAz7Sm0=",
     link: "/holidayEvents",
   },
 ];
